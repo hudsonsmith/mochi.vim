@@ -26,4 +26,6 @@ Then in your ~/.vimrc add the following line:
 colorscheme mochi
 ```
 
+## Notes
 
+It makes tildas invisible.
