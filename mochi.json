@@ -1,0 +1,23 @@
+{
+    "background": "#1D1D26",
+    "black": "#0C0C0C",
+    "blue": "#80A0FF",
+    "brightBlack": "#767676",
+    "brightBlue": "#3B78FF",
+    "brightCyan": "#61D6D6",
+    "brightGreen": "#16C60C",
+    "brightPurple": "#c319fc",
+    "brightRed": "#E74856",
+    "brightWhite": "#F2F2F2",
+    "brightYellow": "#FFFF00",
+    "cursorColor": "#FF80FF",
+    "cyan": "#7FDFFF",
+    "foreground": "#FFFFFF",
+    "green": "#60FF60",
+    "name": "Mochi",
+    "purple": "#df7fff",
+    "red": "#e5393c",
+    "selectionBackground": "#FFFFFF",
+    "white": "#FFFFFF",
+    "yellow": "#FFFF00"
+}
