@@ -1,7 +1,7 @@
 # Mochi.vim 🎨
 
 Mochi.vim is an easy on the eyes dark theme for vim.
-![Image of Mochi colorscheme]("mochi.png")
+![Image of Mochi colorscheme](mochi.png)
 
 Mochi.vim is inspired by Tinacious Design theme for Visual Studio Code, Dracula theme for Vim, and Kaicataldo's Material.vim
 
