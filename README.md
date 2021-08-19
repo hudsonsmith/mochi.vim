@@ -28,4 +28,4 @@ colorscheme mochi
 
 ## Notes
 
-It makes tildas invisible.
+It makes tildes invisible.
